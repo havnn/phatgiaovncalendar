@@ -1,7 +1,20 @@
-# phatgiaovncalendar
+# Lịch điện tử sự kiện Phật giáo
 
 Lịch điện tử các sự kiện Phật giáo Việt Nam sử dụng cho Apple Calendar, Google Calendar, Outlook, ... được tổng hợp từ trang
 https://phatgiao.org.vn/tong-hop-cac-ngay-le-phat-giao-trong-nam-phat-tu-nen-biet-d54863.html
+
+# Liên kết Subscribed Calendar
+*Sự kiện Phật giáo*  
+https://raw.githubusercontent.com/havnn/phatgiaovncalendar/refs/heads/main/phat_giao_calendar.ics
+
+*Lịch Thập trai*  
+https://raw.githubusercontent.com/havnn/phatgiaovncalendar/refs/heads/main/thap_trai_calendar.ics
+
+*Lịch Ăn chay theo ngày Thập trai*  
+https://raw.githubusercontent.com/havnn/phatgiaovncalendar/refs/heads/main/an_chay_thap_trai_calendar.ics
+
+# Hướng dẫn cách tích hợp lịch
+https://phapthihoi.org/lich-an-chay.html
 
 # CÁC SỰ KIỆN CHÍNH
 01/1: Ngày vía Đức Phật Di Lặc 
